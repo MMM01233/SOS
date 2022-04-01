@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "249482075484",
+    "project_id": "hercare-c7b4a",
+    "storage_bucket": "hercare-c7b4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249482075484:android:3533399b786e3e22723599",
+        "android_client_info": {
+          "package_name": "com.zence.hercare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249482075484-fhkea7621trhbcct7bom4smvesg0lurn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zence.hercare",
+            "certificate_hash": "5de108ea416899b5cf0e6c988f30d72f1ec30e26"
+          }
+        },
+        {
+          "client_id": "249482075484-sbm7962dhg1di2mnobhh9112nffc5fqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXCUKwUI5WwTNtJpeuka0Hoeimc7_H0jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249482075484-sbm7962dhg1di2mnobhh9112nffc5fqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
